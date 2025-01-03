@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Rivan 👋
 
-<!--
-**rivanghibran/rivanghibran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a third-semester Informatics student passionate about web programming.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+- **Languages**: Python, PHP
+- **Frameworks**: Flask, Laravel
+- **Databases**: MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rivanghibran&show_icons=true&theme=radical)
+
+## ⏰ Coding Time
+
+[![wakatime](https://wakatime.com/badge/user/4b870f2f-0757-4ad0-bd5f-3eb041683c9c.svg)](https://wakatime.com/@4b870f2f-0757-4ad0-bd5f-3eb041683c9c)
+[![WakaTime](https://wakatime.com/badge/user/rivanghibran.svg)](https://wakatime.com/@rivanghibran)
