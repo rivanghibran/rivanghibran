@@ -1,8 +1,8 @@
-# Hi there, I'm Rivan 👋
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=rivanghibran&label=Profile%20views&color=0e75b6&style=flat" alt="rivanghibran" />
 </p>
 
+# Hi there, I'm Rivan 👋
 
 I'm a third-semester Informatics student passionate about web programming.
 
