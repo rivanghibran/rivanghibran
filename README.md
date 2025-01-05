@@ -15,4 +15,5 @@ I'm a third-semester Informatics student passionate about web programming.
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rivanghibran&label=Profile%20views&color=0e75b6&style=flat" alt="rivanghibran" />
 </p>
+
 [![wakatime](https://wakatime.com/badge/user/4b870f2f-0757-4ad0-bd5f-3eb041683c9c.svg)](https://wakatime.com/@4b870f2f-0757-4ad0-bd5f-3eb041683c9c)
